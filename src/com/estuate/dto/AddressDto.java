@@ -1,5 +1,7 @@
 package com.estuate.dto;
-
+/**
+*DTO class
+*/
 public class AddressDto {
 	private int adressId;
 	private String workAddress;
